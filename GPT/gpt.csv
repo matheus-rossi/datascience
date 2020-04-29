@@ -1,0 +1,535 @@
+COD,Horário Inicial,Horário final,TEMPO,TEMPO (MIN),TEMPO(ROT),Qtd peças conformes,Qtd peças não conformes,Observações,Data,Turno,Digitador
+192,07:00,08:00,01:00:00,60,#N/A,,,,22/1/2020,T1,Willian Zomer
+2047860,08:00,10:00,02:00:00,120,47,1,,,22/1/2020,T1,Willian Zomer
+2008164,10:00,11:30,01:30:00,90,42,8,,,22/1/2020,T1,Willian Zomer
+180,11:30,12:40,01:10:00,70,#N/A,,,,22/1/2020,T1,Willian Zomer
+192,12:40,14:00,01:20:00,80,#N/A,,,,22/1/2020,T1,Willian Zomer
+2047860,14:00,15:00,01:00:00,60,47,1,,,22/1/2020,T1,Willian Zomer
+192,15:00,16:00,01:00:00,60,#N/A,,,,22/1/2020,T1,Willian Zomer
+2047860,16:00,17:00,01:00:00,60,47,1,,,22/1/2020,T1,Willian Zomer
+192,17:05,18:29,01:24:00,84,#N/A,,,,22/1/2020,T2,Willian Zomer
+2047860,18:30,19:11,00:41:00,41,47,1,,,22/1/2020,T2,Willian Zomer
+181,19:12,20:30,01:18:00,78,#N/A,,,,22/1/2020,T2,Willian Zomer
+2050430,21:54,22:15,00:21:00,21,12,1,,,22/1/2020,T2,Willian Zomer
+201,22:15,23:56,01:41:00,101,#N/A,,,,22/1/2020,T2,Willian Zomer
+192,23:57,00:14,00:17:00,17,#N/A,,,,22/1/2020,T2,Willian Zomer
+2050430,00:14,00:32,00:18:00,18,12,1,,,22/1/2020,T2,Willian Zomer
+192,00:32,01:21,00:49:00,49,#N/A,,,,22/1/2020,T2,Willian Zomer
+2047860,01:21,02:10,00:49:00,49,47,1,,,22/1/2020,T2,Willian Zomer
+2008164,07:00,08:30,01:30:00,90,42,8,,,23/1/2020,T1,Willian Zomer
+192,08:50,09:00,00:10:00,10,#N/A,,,,23/1/2020,T1,Willian Zomer
+2050430,09:00,09:25,00:25:00,25,12,1,,,23/1/2020,T1,Willian Zomer
+201,09:25,10:00,00:35:00,35,#N/A,,,,23/1/2020,T1,Willian Zomer
+2008164,10:00,11:15,01:15:00,75,42,8,,,23/1/2020,T1,Willian Zomer
+2050430,11:15,11:30,00:15:00,15,12,1,,,23/1/2020,T1,Willian Zomer
+192,11:30,11:50,00:20:00,20,#N/A,,,,23/1/2020,T1,Willian Zomer
+180,11:50,13:00,01:10:00,70,#N/A,,,,23/1/2020,T1,Willian Zomer
+192,13:00,13:30,00:30:00,30,#N/A,,,,23/1/2020,T1,Willian Zomer
+2047860,13:30,14:15,00:45:00,45,47,1,,,23/1/2020,T1,Willian Zomer
+2050430,14:30,14:45,00:15:00,15,12,1,,,23/1/2020,T1,Willian Zomer
+192,14:15,14:30,00:15:00,15,#N/A,,,,23/1/2020,T1,Willian Zomer
+2008164,14:30,15:15,00:45:00,45,42,8,,Continuação PVA A21045 Barrote,23/1/2020,T1,Willian Zomer
+201,15:15,16:00,00:45:00,45,#N/A,,,,23/1/2020,T1,Willian Zomer
+2008164,16:00,17:10,01:10:00,70,42,8,,,23/1/2020,T1,Willian Zomer
+192,17:10,18:06,00:56:00,56,#N/A,,,,23/1/2020,T2,Willian Zomer
+2050430,18:07,18:24,00:17:00,17,12,1,,Frontal 2050430-0,23/1/2020,T2,Willian Zomer
+192,18:25,19:21,00:56:00,56,#N/A,,,,23/1/2020,T2,Willian Zomer
+2047860,19:21,20:06,00:45:00,45,47,1,,Porta Lateral,23/1/2020,T2,Willian Zomer
+192,20:07,20:31,00:24:00,24,#N/A,,,,23/1/2020,T2,Willian Zomer
+2050430,21:30,21:51,00:21:00,21,12,1,,Frontal 2050430-0,23/1/2020,T2,Willian Zomer
+201,21:51,22:40,00:49:00,49,#N/A,,,,23/1/2020,T2,Willian Zomer
+192,22:41,23:04,00:23:00,23,#N/A,,,,23/1/2020,T2,Willian Zomer
+2050430,23:05,23:27,00:22:00,22,12,1,,Frontal 2050430-0,23/1/2020,T2,Willian Zomer
+201,23:28,01:00,01:32:00,92,#N/A,,,,23/1/2020,T2,Willian Zomer
+192,01:01,01:29,00:28:00,28,#N/A,,,,23/1/2020,T2,Willian Zomer
+2050430,01:30,01:58,00:28:00,28,12,1,,Frontal 2050430-0,23/1/2020,T2,Willian Zomer
+120,01:58,02:20,00:22:00,22,#N/A,,,,23/1/2020,T2,Willian Zomer
+190,07:00,08:00,01:00:00,60,#N/A,,,,27/1/2020,T1,Willian Zomer
+2047860,08:00,08:45,00:45:00,45,47,1,,,27/1/2020,T1,Willian Zomer
+192,08:45,09:30,00:45:00,45,#N/A,,,,27/1/2020,T1,Willian Zomer
+2047860,09:30,10:45,01:15:00,75,47,1,,,27/1/2020,T1,Willian Zomer
+60,10:45,11:45,01:00:00,60,#N/A,,,,27/1/2020,T1,Willian Zomer
+180,11:45,12:55:00,01:10:00,70,#N/A,,,,27/1/2020,T1,Willian Zomer
+192,12:55,13:35,00:40:00,40,#N/A,,,,27/1/2020,T1,Willian Zomer
+2047860,13:35,15:15,01:40:00,100,47,1,,,27/1/2020,T1,Willian Zomer
+160,15:15,15:30,00:15:00,15,#N/A,,,,27/1/2020,T1,Willian Zomer
+202,15:30,16:30,01:00:00,60,#N/A,,,,27/1/2020,T1,Willian Zomer
+203,16:30,17:10,00:40:00,40,#N/A,,,,27/1/2020,T1,Willian Zomer
+201,17:00,19:46,02:46:00,166,#N/A,,,,27/1/2020,T2,Willian Zomer
+192,19:47,20:30,00:43:00,43,#N/A,,,,27/1/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,,27/1/2020,T2,Willian Zomer
+2050430,21:31,22:20,00:49:00,49,12,1,,,27/1/2020,T2,Willian Zomer
+201,22:21,23:59,01:38:00,98,#N/A,,,,27/1/2020,T2,Willian Zomer
+192,00:00,00:48,00:48:00,48,#N/A,,,,27/1/2020,T2,Willian Zomer
+2050430,00:49,01:20,00:31:00,31,12,1,,,27/1/2020,T2,Willian Zomer
+182,07:00,07:30,00:30:00,30,#N/A,,,Terça Qualidade,28/1/2020,T1,Willian Zomer
+192,07:30,08:00,00:30:00,30,#N/A,,,,28/1/2020,T1,Willian Zomer
+2047860,08:00,10:00,02:00:00,120,47,1,,,28/1/2020,T1,Willian Zomer
+202,10:00,10:40,00:40:00,40,#N/A,,,,28/1/2020,T1,Willian Zomer
+192,10:40,11:40,01:00:00,60,#N/A,,,Troca gabarito Setup frontd Premium,28/1/2020,T1,Willian Zomer
+108,11:40,12:50,01:10:00,70,#N/A,,,,28/1/2020,T1,Willian Zomer
+SA.,12:50,13:30,00:40:00,40,#N/A,1,,Frontal Premium,28/1/2020,T1,Willian Zomer
+2047860,13:30,15:00,01:30:00,90,47,1,,,28/1/2020,T1,Willian Zomer
+2050430,15:10,16:00,00:50:00,50,12,1,,,28/1/2020,T1,Willian Zomer
+192,16:00,16:30,00:30:00,30,#N/A,,,Montagem Barrote,28/1/2020,T1,Willian Zomer
+192,17:05,18:12,01:07:00,67,#N/A,,,,28/1/2020,T2,Willian Zomer
+2050640,18:13,19:10,00:57:00,57,30,2,,Fueiro Malhal,28/1/2020,T2,Willian Zomer
+192,19:10,19:42,00:32:00,32,#N/A,,,,28/1/2020,T2,Willian Zomer
+2050640,19:43,20:30,00:47:00,47,30,2,,Fueiro Malhal,28/1/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,,28/1/2020,T2,Willian Zomer
+192,21:30,22:50,01:20:00,80,#N/A,,,Frontal / Fueiro Malhal,28/1/2020,T2,Willian Zomer
+2050430,22:50,23:10,00:20:00,20,12,1,,Frontal,28/1/2020,T2,Willian Zomer
+2050640,23:11,00:04,00:53:00,53,30,2,,Fueiro Malhal,28/1/2020,T2,Willian Zomer
+130,00:05,00:39,00:34:00,34,#N/A,,,,28/1/2020,T2,Willian Zomer
+192,00:40,00:51,00:11:00,11,#N/A,,,,28/1/2020,T2,Willian Zomer
+2050430,00:51,01:13,00:22:00,22,12,1,,Frontal,28/1/2020,T2,Willian Zomer
+181,01:14,01:50,00:36:00,36,#N/A,1,,Fueiro Malhal,28/1/2020,T2,Willian Zomer
+120,01:50,02:20,00:30:00,30,#N/A,,,,28/1/2020,T2,Willian Zomer
+2050643,07:00,08:45,01:45:00,105,60,4,,Fueiro Malhal,29/1/2020,T1,Willian Zomer
+192,08:45,09:10,00:25:00,25,#N/A,,,Regulagem dos Pontos,29/1/2020,T1,Willian Zomer
+2049980,09:10,09:50,00:40:00,40,12,1,,Tampa Inf,29/1/2020,T1,Willian Zomer
+192,09:50,10:15,00:25:00,25,#N/A,,,Tampa Inf,29/1/2020,T1,Willian Zomer
+2047860,10:15,11:00,00:45:00,45,47,1,,Tampa Inf,29/1/2020,T1,Willian Zomer
+160,11:00,11:20,00:20:00,20,#N/A,,,,29/1/2020,T1,Willian Zomer
+192,11:20,11:40,00:20:00,20,#N/A,2,,Tampa Inf,29/1/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,29/1/2020,T1,Willian Zomer
+2050643,12:50:00,14:10,01:20:00,80,30,2,,Fueiro Malhal,29/1/2020,T1,Willian Zomer
+202,14:10,14:40,00:30:00,30,#N/A,,,,29/1/2020,T1,Willian Zomer
+192,14:40,15:00,00:20:00,20,#N/A,,,Fueiro Malhal,29/1/2020,T1,Willian Zomer
+2040430,15:00,15:30,00:30:00,30,28,1,,Frontal Premium,29/1/2020,T1,Willian Zomer
+192,15:30,15:45,00:15:00,15,#N/A,,,,29/1/2020,T1,Willian Zomer
+2047860,15:45,16:45,01:00:00,60,47,1,,Tampa Inf,29/1/2020,T1,Willian Zomer
+120,16:45,17:10,00:25:00,25,#N/A,,,,29/1/2020,T1,Willian Zomer
+201,17:00,18:40,01:40:00,100,#N/A,,,,29/1/2020,T2,Willian Zomer
+192,18:40,19:03,00:23:00,23,#N/A,,,,29/1/2020,T2,Willian Zomer
+2050430,19:03,19:27,00:24:00,24,12,1,,Frontal,29/1/2020,T2,Willian Zomer
+201,19:27,22:01,02:34:00,154,#N/A,,,,29/1/2020,T2,Willian Zomer
+192,22:01,22:16,00:15:00,15,#N/A,,,,29/1/2020,T2,Willian Zomer
+2049697,22:17,22:51,00:34:00,34,52,1,,Frontal,29/1/2020,T2,Willian Zomer
+201,22:52,23:30,00:38:00,38,#N/A,,,,29/1/2020,T2,Willian Zomer
+192,23:31,00:10,00:39:00,39,#N/A,,,,29/1/2020,T2,Willian Zomer
+2047860,00:11,01:00,00:49:00,49,47,1,,,29/1/2020,T2,Willian Zomer
+192,01:00,01:30,00:30:00,30,#N/A,,,,29/1/2020,T2,Willian Zomer
+2049980,01:31,02:10,00:39:00,39,12,1,,,29/1/2020,T2,Willian Zomer
+170,07:00,07:10,00:10:00,10,#N/A,,,Retirada Tampa e Frontd Gabarito,30/1/2020,T1,Willian Zomer
+202,07:10,08:00,00:50:00,50,#N/A,,,Tampa Inf. Montagem,30/1/2020,T1,Willian Zomer
+192,08:00,08:30,00:30:00,30,#N/A,,,Regulagem Ponto Solda,30/1/2020,T1,Willian Zomer
+2047860,08:30,09:45,01:15:00,75,47,1,,Regulagem Ponto Solda,30/1/2020,T1,Willian Zomer
+192,09:45,10:15,00:30:00,30,#N/A,,,Regulagem Ponto Solda Frontal,30/1/2020,T1,Willian Zomer
+2050430,10:15,10:40,00:25:00,25,12,1,,Frontal Premium,30/1/2020,T1,Willian Zomer
+203,10:40,11:10,00:30:00,30,#N/A,,,Barrote,30/1/2020,T1,Willian Zomer
+192,11:10,11:40,00:30:00,30,#N/A,,,Programação Barrote Pequeno,30/1/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,30/1/2020,T1,Willian Zomer
+192,12:50,13:30,00:40:00,40,#N/A,,,Programado Barrote e Pontos Frontal,30/1/2020,T1,Willian Zomer
+2049165,13:30,14:00,00:30:00,30,45,1,,Frontal Premium,30/1/2020,T1,Willian Zomer
+2008164,14:00,15:05,01:05:00,65,42,8,,Barrote,30/1/2020,T1,Willian Zomer
+192,15:05,15:50,00:45:00,45,#N/A,,,Regulagem Pontos Tampa Inf,30/1/2020,T1,Willian Zomer
+2035284,15:50,16:30,00:40:00,40,48,1,,Tampa Lateral Inf.,30/1/2020,T1,Willian Zomer
+192,16:30,16:45,00:15:00,15,#N/A,,,Regulgem Pontos Frontal Premium,30/1/2020,T1,Willian Zomer
+2007720,16:45,17:10,00:25:00,25,6,1,,Frontal Premium,30/1/2020,T1,Willian Zomer
+201,17:00,19:20,02:20:00,140,#N/A,,,,30/1/2020,T2,Willian Zomer
+192,19:20,20:30,01:10:00,70,#N/A,,,Barrote,30/1/2020,T2,Willian Zomer
+182,20:30,21:30,01:00:00,60,#N/A,,,,30/1/2020,T2,Willian Zomer
+192,21:30:00,22:05,00:35:00,35,#N/A,,,Frontal,30/1/2020,T2,Willian Zomer
+2050157,22:05,22:26,00:21:00,21,19,1,,Frontal,30/1/2020,T2,Willian Zomer
+2008164,22:26,22:55,00:29:00,29,21,4,,Barrote,30/1/2020,T2,Willian Zomer
+192,22:55:00,23:42,00:47:00,47,#N/A,,,Frontal,30/1/2020,T2,Willian Zomer
+2050430,23:43,00:05,00:22:00,22,12,1,,Frontal,30/1/2020,T2,Willian Zomer
+192,00:06,00:29,00:23:00,23,#N/A,,,,30/1/2020,T2,Willian Zomer
+2008164,00:30,01:02,00:32:00,32,5,1,,Barrote,30/1/2020,T2,Willian Zomer
+192,07:00,07:30,00:30:00,30,#N/A,,,Setup,3/2/2020,T1,Willian Zomer
+2050430,07:30,08:00,00:30:00,30,12,1,,Frontal,3/2/2020,T1,Willian Zomer
+192,08:00,09:00,01:00:00,60,#N/A,,,Setup,3/2/2020,T1,Willian Zomer
+2050430,09:00,09:50,00:50:00,50,12,1,,Frontal,3/2/2020,T1,Willian Zomer
+192,09:50,10:10,00:20:00,20,#N/A,,,Setup,3/2/2020,T1,Willian Zomer
+2047860,10:10,11:05,00:55:00,55,47,1,,Porta Lateral inferior,3/2/2020,T1,Willian Zomer
+192,11:05,11:20,00:15:00,15,#N/A,,,Setup,3/2/2020,T1,Willian Zomer
+2050430,11:20,11:45,00:25:00,25,12,1,,Frontal,3/2/2020,T1,Willian Zomer
+180,11:45,12:55,01:10:00,70,#N/A,,,Almoço,3/2/2020,T1,Willian Zomer
+192,12:55,16:00,03:05:00,185,#N/A,,,Setup,3/2/2020,T1,Willian Zomer
+2026398,16:00,17:10,01:10:00,70,5,1,,Porta Lateral inferior,3/2/2020,T1,Willian Zomer
+182,17:10,18:00,00:50:00,50,#N/A,,,,3/2/2020,T2,Willian Zomer
+192,18:00,18:21,00:21:00,21,#N/A,,,,3/2/2020,T2,Willian Zomer
+2050430,18:21,18:44,00:23:00,23,12,1,,Frontal,3/2/2020,T2,Willian Zomer
+192,18:44,23:15,04:31:00,271,#N/A,,,,3/2/2020,T2,Willian Zomer
+192,23:15,23:34,00:19:00,19,#N/A,,,,3/2/2020,T2,Willian Zomer
+2050430,23:34,23:56,00:22:00,22,12,1,,Frontal,3/2/2020,T2,Willian Zomer
+160,23:56,00:35,00:39:00,39,#N/A,,,,3/2/2020,T2,Willian Zomer
+192,00:35,00:54,00:19:00,19,#N/A,,,,3/2/2020,T2,Willian Zomer
+2049980,00:54,01:17,00:23:00,23,12,1,,Frontal,3/2/2020,T2,Willian Zomer
+160,01:17,01:40,00:23:00,23,#N/A,,,,3/2/2020,T2,Willian Zomer
+192,01:40,01:58,00:18:00,18,#N/A,,,,3/2/2020,T2,Willian Zomer
+2050430,01:58,02:20,00:22:00,22,12,1,,Frontal,3/2/2020,T2,Willian Zomer
+2050091,10:40,11:35,00:55:00,55,80,1,,Tampa lateral inferior,5/2/2020,T1,Willian Zomer
+192,11:35,11:45,00:10:00,10,#N/A,,,Setup,5/2/2020,T1,Willian Zomer
+2049165,11:45,12:05,00:20:00,20,45,1,,Frontal,5/2/2020,T1,Willian Zomer
+180,12:05,13:15,01:10:00,70,#N/A,,,Almoço 1:10,5/2/2020,T1,Willian Zomer
+201,13:15,13:55,00:40:00,40,#N/A,,,Montagem Barrote,5/2/2020,T1,Willian Zomer
+2034335,13:55,14:45,00:50:00,50,64,8,,Soldagem Barrote,5/2/2020,T1,Willian Zomer
+192,14:45,15:00,00:15:00,15,#N/A,,,Setup Frontal,5/2/2020,T1,Willian Zomer
+2048374,15:00,15:30,00:30:00,30,45,1,,Frontal,5/2/2020,T1,Willian Zomer
+40,15:30,15:40,00:10:00,10,#N/A,,,,5/2/2020,T1,Willian Zomer
+192,15:40,16:00,00:20:00,20,#N/A,,,Setup,5/2/2020,T1,Willian Zomer
+2047860,16:00,17:10,01:10:00,70,47,1,,Tampa lateral inferior,5/2/2020,T1,Willian Zomer
+192,17:10,17:31,00:21:00,21,#N/A,,,,5/2/2020,T2,Willian Zomer
+2049980,17:31,17:53,00:22:00,22,12,1,,Frontal,5/2/2020,T2,Willian Zomer
+201,17:53,22:40,04:47:00,287,#N/A,,,,5/2/2020,T2,Willian Zomer
+192,22:40,23:49,01:09:00,69,#N/A,,,,5/2/2020,T2,Willian Zomer
+2050091,23:49,00:18,00:29:00,29,80,1,,Barrote Lateral,5/2/2020,T2,Willian Zomer
+192,00:18,00:39,00:21:00,21,#N/A,,,,5/2/2020,T2,Willian Zomer
+2048374,00:39,01:00,00:21:00,21,45,1,,Frontal,5/2/2020,T2,Willian Zomer
+201,01:00,02:22,01:22:00,82,#N/A,,,,5/2/2020,T2,Willian Zomer
+10,07:00,07:15,00:15:00,15,#N/A,,,Montagem tampa gabarito,5/2/2020,T1,Willian Zomer
+192,07:15,07:35,00:20:00,20,#N/A,,,Setup,5/2/2020,T1,Willian Zomer
+2028323,07:35,08:00,00:25:00,25,1,1,,Frontal,5/2/2020,T1,Willian Zomer
+192,08:00,10:15,02:15:00,135,#N/A,,,Setup tampa 2050091,5/2/2020,T1,Willian Zomer
+192,10:15,10:21,00:06:00,6,#N/A,,,Setup Frontal,5/2/2020,T1,Willian Zomer
+2041332,10:21,10:40,00:19:00,19,45,1,,Frontal,5/2/2020,T1,Willian Zomer
+40,07:00,07:15,00:15:00,15,#N/A,,,Retirada Peças Gabarito,6/2/2020,T1,Willian Zomer
+192,07:15,07:30,00:15:00,15,#N/A,,,Setup,6/2/2020,T1,Willian Zomer
+2049980,07:30,07:48,00:18:00,18,12,1,,Frontal,6/2/2020,T1,Willian Zomer
+192,07:48,09:00,01:12:00,72,#N/A,,,Setup,6/2/2020,T1,Willian Zomer
+2008164,09:00,10:00,01:00:00,60,42,8,,Barrote,6/2/2020,T1,Willian Zomer
+192,10:00,10:30,00:30:00,30,#N/A,,,Setup Tampa Lateral Inf,6/2/2020,T1,Willian Zomer
+2047860,10:30,11:15,00:45:00,45,47,1,,Tampa Lateral Inf,6/2/2020,T1,Willian Zomer
+192,11:15,11:30,00:15:00,15,#N/A,,,Setup Barrote,6/2/2020,T1,Willian Zomer
+2008164,11:30,12:00,00:30:00,30,42,8,,Barrote 1 lado soldado,6/2/2020,T1,Willian Zomer
+180,12:00,13:10,01:10:00,70,#N/A,,,Almoço,6/2/2020,T1,Willian Zomer
+192,13:10,13:25,00:15:00,15,#N/A,,,Setup,6/2/2020,T1,Willian Zomer
+2008164,13:25,15:55,02:30:00,150,42,8,,Continação barrote 2 lado,6/2/2020,T1,Willian Zomer
+192,13:55,14:25,00:30:00,30,#N/A,,,Setup Tampa Lateral Inf,6/2/2020,T1,Willian Zomer
+2035284,14:25,15:20,00:55:00,55,48,1,,Tampa Lateral Inferior,6/2/2020,T1,Willian Zomer
+192,15:20,15:35,00:15:00,15,#N/A,,,Setup Frontal,6/2/2020,T1,Willian Zomer
+2049980,15:35,16:00,00:25:00,25,12,1,,Frontal,6/2/2020,T1,Willian Zomer
+192,16:00,17:00,01:00:00,60,#N/A,,,Retira Gabarito Para Melhorias,6/2/2020,T1,Willian Zomer
+120,17:00,17:10,00:10:00,10,#N/A,,,,6/2/2020,T1,Willian Zomer
+120,17:00,18:00,01:00:00,60,#N/A,,,Limpeza Robo,6/2/2020,T2,Willian Zomer
+192,18:00,18:19,00:19:00,19,#N/A,,,,6/2/2020,T2,Willian Zomer
+2050430,18:19,18:38,00:19:00,19,12,1,,Frontal,6/2/2020,T2,Willian Zomer
+202,18:38,20:30,01:52:00,112,#N/A,,,,6/2/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,,6/2/2020,T2,Willian Zomer
+192,21:30,21:49,00:19:00,19,#N/A,,,,6/2/2020,T2,Willian Zomer
+2050430,21:49,22:08,00:19:00,19,12,1,,Frontal,6/2/2020,T2,Willian Zomer
+192,22:50,23:10,00:20:00,20,#N/A,,,,6/2/2020,T2,Willian Zomer
+2050430,23:10,23:29,00:19:00,19,12,1,,,6/2/2020,T2,Willian Zomer
+201,22:08,22:50,00:42:00,42,#N/A,,,,6/2/2020,T2,Willian Zomer
+201,23:29,01:40,02:11:00,131,#N/A,,,,6/2/2020,T2,Willian Zomer
+192,01:40,01:58,00:18:00,18,#N/A,,,,6/2/2020,T2,Willian Zomer
+2049165,01:58,02:17,00:19:00,19,45,1,,Frontal,6/2/2020,T2,Willian Zomer
+11,07:00,07:30,00:30:00,30,#N/A,,,Falta,10/2/2020,T1,Willian Zomer
+192,07:30,08:30,01:00:00,60,#N/A,,,Setup Barrote,10/2/2020,T1,Willian Zomer
+2008164,08:30,09:15,00:45:00,45,42,8,,Barrote,10/2/2020,T1,Willian Zomer
+2050430,09:15,09:40,00:25:00,25,12,1,,Frontal,10/2/2020,T1,Willian Zomer
+2008164,09:40,10:10,00:30:00,30,42,8,,Solda 2 lado barrote,10/2/2020,T1,Willian Zomer
+201,10:10,10:30,00:20:00,20,#N/A,,,Montagem Barrote,10/2/2020,T1,Willian Zomer
+2008164,10:30,11:45,01:15:00,75,42,8,,Barrote e Setup,10/2/2020,T1,Willian Zomer
+180,11:45,12:55,01:10:00,70,#N/A,,,Almoço,10/2/2020,T1,Willian Zomer
+192,12:55,13:15,00:20:00,20,#N/A,,,Setup,10/2/2020,T1,Willian Zomer
+2050430,13:15,14:00,00:45:00,45,12,1,,Frontal,10/2/2020,T1,Willian Zomer
+10,14:00,14:10,00:10:00,10,#N/A,,,Montagem,10/2/2020,T1,Willian Zomer
+192,14:10,14:20,00:10:00,10,#N/A,,,Setup Frontal,10/2/2020,T1,Willian Zomer
+2050430,14:20,14:50,00:30:00,30,12,1,,Frontal,10/2/2020,T1,Willian Zomer
+40,14:50,15:15,00:25:00,25,#N/A,,,Retirada frontal Gabarito,10/2/2020,T1,Willian Zomer
+192,15:15,15:40,00:25:00,25,#N/A,,,Setup Barrote menor,10/2/2020,T1,Willian Zomer
+2034335,15:40,17:00,01:20:00,80,64,8,,Barrote menor,10/2/2020,T1,Willian Zomer
+192,20:01,20:30,00:29:00,29,#N/A,,,,10/2/2020,T2,Willian Zomer
+2008164,21:35,22:00,00:25:00,25,21,4,,,10/2/2020,T2,Willian Zomer
+192,22:20,22:39,00:19:00,19,#N/A,,,,10/2/2020,T2,Willian Zomer
+2050430,22:39,22:58,00:19:00,19,12,1,,,10/2/2020,T2,Willian Zomer
+192,22:59,23:18,00:19:00,19,#N/A,,,,10/2/2020,T2,Willian Zomer
+2008164,23:19,00:01,00:42:00,42,21,4,,,10/2/2020,T2,Willian Zomer
+192,00:01,00:20,00:19:00,19,#N/A,,,,10/2/2020,T2,Willian Zomer
+2050430,00:20,00:41,00:21:00,21,12,1,,,10/2/2020,T2,Willian Zomer
+182,07:00,07:30,00:30:00,30,#N/A,,,Terça qualidade,11/2/2020,T1,Willian Zomer
+192,07:30,08:00,00:30:00,30,#N/A,,,Setup Frontal,11/2/2020,T1,Willian Zomer
+2050430,08:00,08:30,00:30:00,30,12,1,,Frontal Premium,11/2/2020,T1,Willian Zomer
+2008164,08:30,08:55,00:25:00,25,42,8,,Montagem barrote 8Pcs Montados,11/2/2020,T1,Willian Zomer
+2008164,08:55,10:00,01:05:00,65,42,8,,Soldados 8Pcs soldados,11/2/2020,T1,Willian Zomer
+181,10:00,10:10,00:10:00,10,#N/A,8,,8Pcs Montados  retrabalho 3 Pcs,11/2/2020,T1,Willian Zomer
+40,10:10,10:20,00:10:00,10,#N/A,,,retirada Pcs gabatiro,11/2/2020,T1,Willian Zomer
+160,10:20,10:35,00:15:00,15,#N/A,,,Indisponivel,11/2/2020,T1,Willian Zomer
+10,10:35,10:45,00:10:00,10,#N/A,,,Montagem Pcs gabarito,11/2/2020,T1,Willian Zomer
+192,10:45,11:00,00:15:00,15,#N/A,,,Setup Frontal,11/2/2020,T1,Willian Zomer
+2050430,11:00,11:35,00:35:00,35,12,1,,Setup Frontal Premiun,11/2/2020,T1,Willian Zomer
+180,11:35,12:55,01:20:00,80,#N/A,,,Almoço,11/2/2020,T1,Willian Zomer
+40,12:55,13:20,00:25:00,25,#N/A,,,Retirada peças gabarito,11/2/2020,T1,Willian Zomer
+192,13:20,13:55,00:35:00,35,#N/A,,,tampa lateral inferior,11/2/2020,T1,Willian Zomer
+2047860,13:55,14:50,00:55:00,55,47,1,,tampa lateral inferior,11/2/2020,T1,Willian Zomer
+192,14:50,15:00,00:10:00,10,#N/A,,,Setup frontal P,11/2/2020,T1,Willian Zomer
+2050430,15:00,15:20,00:20:00,20,12,1,,Frontal Premiun,11/2/2020,T1,Willian Zomer
+192,15:20,15:50,00:30:00,30,#N/A,,,Porta lateral inferior,11/2/2020,T1,Willian Zomer
+2047860,15:50,16:30,00:40:00,40,47,1,,Porta lateral inferior,11/2/2020,T1,Willian Zomer
+192,16:30,16:40,00:10:00,10,#N/A,,,Setup Frontal Premium,11/2/2020,T1,Willian Zomer
+2050430,16:40,17:00,00:20:00,20,12,1,,Frontal Premium,11/2/2020,T1,Willian Zomer
+160,17:00,18:45,01:45:00,105,#N/A,,,,11/2/2020,T2,Willian Zomer
+192,18:45,19:04,00:19:00,19,#N/A,,,,11/2/2020,T2,Willian Zomer
+2039233,19:04,19:48,00:44:00,44,47,1,,Porta Lateral,11/2/2020,T2,Willian Zomer
+191,19:48,20:30,00:42:00,42,#N/A,,,Sem peças para soldar,11/2/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,tampa,11/2/2020,T2,Willian Zomer
+192,21:30,21:49,00:19:00,19,#N/A,,,,11/2/2020,T2,Willian Zomer
+2050430,21:49,22:08,00:19:00,19,12,1,,Frontal,11/2/2020,T2,Willian Zomer
+191,22:08,23:40,01:32:00,92,#N/A,,,Sem peças para soldar,11/2/2020,T2,Willian Zomer
+192,23:40,01:40,02:00:00,120,#N/A,,,,11/2/2020,T2,Willian Zomer
+2039233,01:40,01:49,00:09:00,9,47,1,,Porta lateral,11/2/2020,T2,Willian Zomer
+120,01:49,02:15,00:26:00,26,#N/A,,,Limpeza,11/2/2020,T2,Willian Zomer
+10,07:00,07:15,00:15:00,15,#N/A,,,pes gabarito frontal,12/2/2020,T1,Willian Zomer
+192,07:15,07:30,00:15:00,15,#N/A,,,Setup frontal,12/2/2020,T1,Willian Zomer
+2050430,07:30,08:05,00:35:00,35,12,1,,Solda frontal,12/2/2020,T1,Willian Zomer
+2008164,08:05,08:55,00:50:00,50,42,8,,Pes soldadas de um lado,12/2/2020,T1,Willian Zomer
+192,08:55,09:00,00:05:00,5,#N/A,,,Setup frontal,12/2/2020,T1,Willian Zomer
+2050430,09:00,09:20,00:20:00,20,12,1,,frontal soldado,12/2/2020,T1,Willian Zomer
+2008164,09:20,09:50,00:30:00,30,42,8,,solda 2 lado barrote,12/2/2020,T1,Willian Zomer
+181,09:50,10:05,00:15:00,15,#N/A,,,,12/2/2020,T1,Willian Zomer
+192,10:05,10:45,00:40:00,40,#N/A,,,Setup porta lateral inferior,12/2/2020,T1,Willian Zomer
+2047860,10:45,11:30,00:45:00,45,47,1,,solda almo porta inferior,12/2/2020,T1,Willian Zomer
+192,11:30,11:45,00:15:00,15,#N/A,,,Setup frontal premium,12/2/2020,T1,Willian Zomer
+180,11:45,12:55,01:10:00,70,#N/A,,,almoço,12/2/2020,T1,Willian Zomer
+2050430,13:10,13:45,00:35:00,35,12,1,,Frontal Premium,12/2/2020,T1,Willian Zomer
+2050430,14:45,15:00,00:15:00,15,12,1,,Frontal Premium,12/2/2020,T1,Willian Zomer
+192,15:00,15:30,00:30:00,30,#N/A,,,Setup tampa lateral inferior,12/2/2020,T1,Willian Zomer
+2047860,15:30,17:00,01:30:00,90,47,1,,Setup tampa lateral inferior,12/2/2020,T1,Willian Zomer
+120,17:00,17:00,00:00:00,0,#N/A,,,,12/2/2020,T1,Willian Zomer
+191,17:00,22:23,05:23:00,323,#N/A,,,Sem peças p/ soldar,12/2/2020,T2,Willian Zomer
+192,22:23,22:44,00:21:00,21,#N/A,,,,12/2/2020,T2,Willian Zomer
+2047860,22:44,23:16,00:32:00,32,47,1,,Portal Lateral,12/2/2020,T2,Willian Zomer
+192,23:16,23:32,00:16:00,16,#N/A,,,,12/2/2020,T2,Willian Zomer
+2049065,23:32,23:53,00:21:00,21,45,1,,Fontal Premium,12/2/2020,T2,Willian Zomer
+191,23:53,02:12,02:15:00,135,#N/A,,,Sem peças para soldar,12/2/2020,T2,Willian Zomer
+192,07:00,07:15,00:15:00,15,#N/A,,,Frontal premium setup,13/2/2020,T1,Willian Zomer
+2050430,07:15,07:45,00:30:00,30,12,1,,Frontal premium soldado,13/2/2020,T1,Willian Zomer
+6,07:45,09:30,01:45:00,105,#N/A,,,Sem peças para soldar,13/2/2020,T1,Willian Zomer
+192,09:30,09:50,00:20:00,20,#N/A,,,Progamação nova porta t. Premium,13/2/2020,T1,Willian Zomer
+2049165,09:50,10:00,00:10:00,10,45,1,,Porta traseira Premium,13/2/2020,T1,Willian Zomer
+192,10:00,10:35,00:35:00,35,#N/A,,,Novo programa porta t. B.A 1489,13/2/2020,T1,Willian Zomer
+2036259,10:35,11:00,00:25:00,25,21,1,,Porta traseira B.A soldada,13/2/2020,T1,Willian Zomer
+160,11:00,11:20,00:20:00,20,#N/A,,,Preciso para tirar tampa gabarito,13/2/2020,T1,Willian Zomer
+192,11:20,11:45,00:25:00,25,#N/A,,,Setup tampa Lateral Inferior,13/2/2020,T1,Willian Zomer
+180,11:45,12:55,01:10:00,70,#N/A,,,Almoço,13/2/2020,T1,Willian Zomer
+2048452,12:55,13:45,00:50:00,50,80,1,,Porta lateral inferior,13/2/2020,T1,Willian Zomer
+192,13:45,13:52,00:07:00,7,#N/A,,,Setup frontal Premiun,13/2/2020,T1,Willian Zomer
+2050430,13:52,14:25,00:33:00,33,12,1,,Solda frontal premium,13/2/2020,T1,Willian Zomer
+40,14:25,14:30,00:05:00,5,#N/A,,,Retirada frontal gabarito,13/2/2020,T1,Willian Zomer
+10,14:30,14:34,00:04:00,4,#N/A,,,Abastecimento colocação porta gabarito,13/2/2020,T1,Willian Zomer
+192,14:34,14:50,00:16:00,16,#N/A,,,Setup porta traseira,13/2/2020,T1,Willian Zomer
+2049165,14:50,15:10,00:20:00,20,45,1,,Setup porta traseira,13/2/2020,T1,Willian Zomer
+160,15:10,15:30,00:20:00,20,#N/A,,,Em uso,13/2/2020,T1,Willian Zomer
+192,15:30,15:52,00:22:00,22,#N/A,,,Setup frontal Premiun,13/2/2020,T1,Willian Zomer
+2050430,15:52,16:15,00:23:00,23,12,1,,Solda frontal premium,13/2/2020,T1,Willian Zomer
+40,16:15,16:23,00:08:00,8,#N/A,,,,13/2/2020,T1,Willian Zomer
+10,16:23,16:32,00:09:00,9,#N/A,,,,13/2/2020,T1,Willian Zomer
+120,16:32,17:10,00:38:00,38,#N/A,,,,13/2/2020,T1,Willian Zomer
+191,17:00,19:40,02:40:00,160,#N/A,,,Sem peças p/ soldar,13/2/2020,T2,Willian Zomer
+192,19:40,20:30,00:50:00,50,#N/A,,,,13/2/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,janta,13/2/2020,T2,Willian Zomer
+2050091,21:30,22:10,00:40:00,40,80,1,,Porta lateral,13/2/2020,T2,Willian Zomer
+192,22:10,22:28,00:18:00,18,#N/A,,,Frontal Premium,13/2/2020,T2,Willian Zomer
+2050430,22:28,22:47,00:19:00,19,12,1,,Frontal Premium,13/2/2020,T2,Willian Zomer
+192,22:47,23:06,00:19:00,19,#N/A,,,,13/2/2020,T2,Willian Zomer
+2050430,23:06,23:25,00:19:00,19,12,1,,Frontal Premium,13/2/2020,T2,Willian Zomer
+191,23:25,02:12,02:47:00,167,#N/A,,,,,,
+40,07:00,07:10,00:10:00,10,#N/A,,,Retirada Peças gabarito,14/2/2020,T1,Willian Zomer
+11,07:10,07:45,00:35:00,35,#N/A,,,S/ PCs para soldar,14/2/2020,T1,Willian Zomer
+192,07:45,08:08,00:23:00,23,#N/A,,,Programa novo porta traseira,14/2/2020,T1,Willian Zomer
+2049165,08:08,08:25,00:17:00,17,45,1,,Solda Porta traseira,14/2/2020,T1,Willian Zomer
+40,08:25,08:40,00:15:00,15,#N/A,,,Retirada porta gabarito  esperando telha,14/2/2020,T1,Willian Zomer
+10,08:40,08:45,00:05:00,5,#N/A,,,Colocar Pç porta gabarito,14/2/2020,T1,Willian Zomer
+192,08:45,09:00,00:15:00,15,#N/A,,,Setup Porta traseira BTT,14/2/2020,T1,Willian Zomer
+2040369,09:00,09:15,00:15:00,15,21,1,,Solda porta,14/2/2020,T1,Willian Zomer
+2047860,09:15,09:30,00:15:00,15,47,1,,Solda porta lateral,14/2/2020,T1,Willian Zomer
+192,09:30,09:36,00:06:00,6,#N/A,,,Setup porta traseira,14/2/2020,T1,Willian Zomer
+2049165,09:36,09:52,00:16:00,16,45,1,,Solda porta traseira,14/2/2020,T1,Willian Zomer
+11,09:52,10:30,00:38:00,38,#N/A,,,S/ Pç Porta Soldar,14/2/2020,T1,Willian Zomer
+2008164,10:30,11:40,01:10:00,70,5,1,,Montagem barrote,14/2/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,14/2/2020,T1,Willian Zomer
+192,12:50,13:20,00:30:00,30,#N/A,,,Setup frontal premium,14/2/2020,T1,Willian Zomer
+2050430,13:20,13:46,00:26:00,26,12,1,,Solda frontal premium,14/2/2020,T1,Willian Zomer
+40,13:46,13:53,00:07:00,7,#N/A,,,Retirada Peças gabarito,14/2/2020,T1,Willian Zomer
+10,13:53,14:00,00:07:00,7,#N/A,,,colocação peças gabarito,14/2/2020,T1,Willian Zomer
+192,14:00,14:30,00:30:00,30,#N/A,,,Programação nova frontal premium,14/2/2020,T1,Willian Zomer
+2050430,14:30,14:55,00:25:00,25,12,1,,Solda frontal premium,14/2/2020,T1,Willian Zomer
+192,14:55,15:15,00:20:00,20,#N/A,,,Setup Frontal lateral,14/2/2020,T1,Willian Zomer
+2047860,15:15,15:53,00:38:00,38,47,1,,Solda porta lateral,14/2/2020,T1,Willian Zomer
+120,15:53,16:10,00:17:00,17,#N/A,,,Limpeza setor,14/2/2020,T1,Willian Zomer
+192,16:00,16:11,00:11:00,11,#N/A,,,Setup,14/2/2020,T2,Willian Zomer
+2031442,16:11,16:22,00:11:00,11,39,1,,Porta traseira,14/2/2020,T2,Willian Zomer
+192,16:22,16:32,00:10:00,10,#N/A,,,,14/2/2020,T2,Willian Zomer
+2036259,16:32,16:43,00:11:00,11,21,1,,Porta traseira,14/2/2020,T2,Willian Zomer
+130,16:43,17:30,00:47:00,47,#N/A,,,,14/2/2020,T2,Willian Zomer
+192,17:30,17:51,00:21:00,21,#N/A,,,,14/2/2020,T2,Willian Zomer
+2049980,17:51,18:14,00:23:00,23,12,1,,Frontal premium,14/2/2020,T2,Willian Zomer
+192,18:14,18:33,00:19:00,19,#N/A,,,,14/2/2020,T2,Willian Zomer
+2049980,18:33,18:52,00:19:00,19,12,1,,Frontal premium,14/2/2020,T2,Willian Zomer
+192,18:52,19:08,00:16:00,16,#N/A,,,Setup,14/2/2020,T2,Willian Zomer
+2050430,19:08,19:27,00:19:00,19,12,1,,Frontal premium,14/2/2020,T2,Willian Zomer
+160,19:27,20:00,00:33:00,33,#N/A,,,Esperando ponte rolante,14/2/2020,T2,Willian Zomer
+180,20:00,21:00,01:00:00,60,#N/A,,,Refeição,14/2/2020,T2,Willian Zomer
+192,21:00,21:15,00:15:00,15,#N/A,,,Setup,14/2/2020,T2,Willian Zomer
+2038463,21:15,21:34,00:19:00,19,39,1,,Porta traseira,14/2/2020,T2,Willian Zomer
+191,21:34,23:50,02:16:00,136,#N/A,,,Sem peças pra soldar,14/2/2020,T2,Willian Zomer
+192,23:50,00:08,00:18:00,18,#N/A,,,Setup,14/2/2020,T2,Willian Zomer
+2050430,00:08,00:27,00:19:00,19,12,1,,Frontal premium,14/2/2020,T2,Willian Zomer
+191,00:27,02:12,01:45:00,105,#N/A,,,,,,
+2008164,07:00,07:30,00:30:00,30,5,1,,Montagem Barrote,17/2/2020,T1,Willian Zomer
+2008164,07:30,08:20,00:50:00,50,42,8,,Solda Barrote,17/2/2020,T1,Willian Zomer
+192,08:20,09:00,00:40:00,40,#N/A,,,Setup porta lateral inferior,17/2/2020,T1,Willian Zomer
+2047860,09:00,09:55,00:55:00,55,47,1,,Solda porta lateral inferior,17/2/2020,T1,Willian Zomer
+192,09:55,10:00,00:05:00,5,#N/A,,,Setup porta traseira 2036259,17/2/2020,T1,Willian Zomer
+2036259,10:00,10:10,00:10:00,10,21,1,,Solda porta traseira 2036259,17/2/2020,T1,Willian Zomer
+2008164,10:10,10:36,00:26:00,26,42,8,,Solda 2 ladp do barrote,17/2/2020,T1,Willian Zomer
+192,10:36,11:00,00:24:00,24,#N/A,,,Setup porta traseira 2039181,17/2/2020,T1,Willian Zomer
+2039181,11:00,11:16,00:16:00,16,5,1,,Solda porta traseira 2039181,17/2/2020,T1,Willian Zomer
+192,11:16,11:45,00:29:00,29,#N/A,,,Setup tampa lateral 2047860,17/2/2020,T1,Willian Zomer
+180,11:45,12:55,01:10:00,70,#N/A,,,Almoço,17/2/2020,T1,Willian Zomer
+192,12:55,13:10,00:15:00,15,#N/A,,,Setup frontal premium,17/2/2020,T1,Willian Zomer
+2049065,13:10,13:37,00:27:00,27,45,1,,Solda frontal premium,17/2/2020,T1,Willian Zomer
+2047860,13:37,14:29,00:52:00,52,47,1,,Solda porta lateral,17/2/2020,T1,Willian Zomer
+192,14:29,14:36,00:07:00,7,#N/A,,,Setup frontal 2049980,17/2/2020,T1,Willian Zomer
+2049980,14:36,15:10,00:34:00,34,12,1,,Solda frontal 2049980,17/2/2020,T1,Willian Zomer
+192,15:10,15:39,00:29:00,29,#N/A,,,Setup Barrote 2034335,17/2/2020,T1,Willian Zomer
+2034335,15:39,16:10,00:31:00,31,64,8,,Solda barrote 2034335,17/2/2020,T1,Willian Zomer
+192,16:10,16:15,00:05:00,5,#N/A,1,,Setup frontal,17/2/2020,T1,Willian Zomer
+2048374,16:15,17:00,00:45:00,45,45,1,,Solda frontal,17/2/2020,T1,Willian Zomer
+191,17:00,18:10,01:10:00,70,#N/A,,,Sem peças pra soldar,17/2/2020,T1,Willian Zomer
+192,18:10,18:26,00:16:00,16,#N/A,,,,17/2/2020,T1,Willian Zomer
+2049980,18:26,18:47,00:21:00,21,12,1,,,17/2/2020,T1,Willian Zomer
+191,18:47,20:30,01:43:00,103,#N/A,,,Sem peças pra soldar,17/2/2020,T1,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,Refeição,17/2/2020,T2,Willian Zomer
+192,21:30,22:02,00:32:00,32,#N/A,,,Setup,17/2/2020,T2,Willian Zomer
+2047860,22:02,22:45,00:43:00,43,47,1,,Porta lateral,17/2/2020,T2,Willian Zomer
+160,22:45,23:05,00:20:00,20,#N/A,,,Ponte rolante indisponível,17/2/2020,T2,Willian Zomer
+192,23:05,23:22,00:17:00,17,#N/A,,,Setup,17/2/2020,T2,Willian Zomer
+2050430,23:22,23:43,00:21:00,21,12,1,,,17/2/2020,T2,Willian Zomer
+SA.,23:43,02:12,02:29:00,149,#N/A,,,,,,
+200,07:00,07:40,00:40:00,40,#N/A,,,Terça da qualidade,18/2/2020,T1,Willian Zomer
+192,07:40,07:50,00:10:00,10,#N/A,,,Setup porta traseira,18/2/2020,T1,Willian Zomer
+2049165,07:50,08:05,00:15:00,15,45,1,,Solda porta traseira,18/2/2020,T1,Willian Zomer
+191,08:05,09:15,01:10:00,70,#N/A,,,Sem peças pra soldar,18/2/2020,T1,Willian Zomer
+2008164,09:15,09:30,00:15:00,15,5,1,,Montagem barrote 2008164,18/2/2020,T1,Willian Zomer
+2008164,09:30,10:20,00:50:00,50,42,8,,Solda barrote 2008164,18/2/2020,T1,Willian Zomer
+191,10:20,11:40,01:20:00,80,#N/A,,,Sem peças pra soldar,18/2/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,18/2/2020,T1,Willian Zomer
+2008164,12:50,13:40,00:50:00,50,42,8,,Solda barrote 2 lado,18/2/2020,T1,Willian Zomer
+192,13:40,14:00,00:20:00,20,#N/A,,,Setup tampa traseira,18/2/2020,T1,Willian Zomer
+2041332,14:00,14:15,00:15:00,15,45,1,,Solda tampa traseira,18/2/2020,T1,Willian Zomer
+40,14:15,14:20,00:05:00,5,#N/A,,,Retirada peças gabarito,18/2/2020,T1,Willian Zomer
+10,14:20,14:28,00:08:00,8,#N/A,,,Colocação das peças gabarito,18/2/2020,T1,Willian Zomer
+192,14:28,14:45,00:17:00,17,#N/A,,,Setup frontal 2050430,18/2/2020,T1,Willian Zomer
+2050430,14:45,15:00,00:15:00,15,12,1,,Solda frontal 2050430,18/2/2020,T1,Willian Zomer
+192,15:00,15:10,00:10:00,10,#N/A,,,Setup frontal 2050430,18/2/2020,T1,Willian Zomer
+2049980,15:10,16:00,00:50:00,50,12,1,,Solda frontal 2050430,18/2/2020,T1,Willian Zomer
+192,16:00,16:35,00:35:00,35,#N/A,,,Setup frontal 2049980,18/2/2020,T1,Willian Zomer
+2049980,16:35,16:55,00:20:00,20,12,1,,Solda frontal,18/2/2020,T1,Willian Zomer
+120,16:55,17:00,00:05:00,5,#N/A,,,Limpeza no setor,18/2/2020,T1,Willian Zomer
+160,17:00,17:25,00:25:00,25,#N/A,,,Ponte rolante indisponível,18/2/2020,T2,Willian Zomer
+192,17:25,17:50,00:25:00,25,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2049980,17:50,18:11,00:21:00,21,12,1,,Frontal,18/2/2020,T2,Willian Zomer
+160,18:11,18:23,00:12:00,12,#N/A,,,Ponte rolante indisponível,18/2/2020,T2,Willian Zomer
+192,18:23,18:39,00:16:00,16,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2050430,18:39,19:01,00:22:00,22,12,1,,Frontal,18/2/2020,T2,Willian Zomer
+191,19:01,20:30,01:29:00,89,#N/A,,,Sem peças pra soldar,18/2/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,Refeição,18/2/2020,T2,Willian Zomer
+192,21:30,21:54,00:24:00,24,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2030597,21:54,22:05,00:11:00,11,3,1,,Porta,18/2/2020,T2,Willian Zomer
+160,22:05,22:28,00:23:00,23,#N/A,,,Ponte rolante indisponível,18/2/2020,T2,Willian Zomer
+192,22:28,22:45,00:17:00,17,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2037855,22:45,22:57,00:12:00,12,40,1,,Porta,18/2/2020,T2,Willian Zomer
+192,22:57,23:36,00:39:00,39,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2047860,23:36,00:17,00:41:00,41,47,1,,Porta lateral,18/2/2020,T2,Willian Zomer
+160,00:17,00:29,00:12:00,12,#N/A,,,Ponte rolante indisponível,18/2/2020,T2,Willian Zomer
+192,00:29,00:51,00:22:00,22,#N/A,,,Setup,18/2/2020,T2,Willian Zomer
+2050430,00:50,01:12,00:22:00,22,12,1,,Frontal,18/2/2020,T2,Willian Zomer
+191,01:12,02:05,00:53:00,53,#N/A,,,Sem peças pra soldar,18/2/2020,T2,Willian Zomer
+120,02:05,02:12,00:07:00,7,#N/A,,,Limpeza no setor,18/2/2020,T2,Willian Zomer
+182,07:00,07:10,00:10:00,10,#N/A,,,Sobre vale alimentação,19/2/2020,T1,Willian Zomer
+10,07:10,07:20,00:10:00,10,#N/A,,,Peças no gabarito,19/2/2020,T1,Willian Zomer
+192,07:20,07:45,00:25:00,25,#N/A,,,Setup frontal 2050430,19/2/2020,T1,Willian Zomer
+2050430,07:45,08:00,00:15:00,15,12,1,,Solda frontal 2050430,19/2/2020,T1,Willian Zomer
+40,08:00,08:10,00:10:00,10,#N/A,,,Retirada frontal e barrote gabarito,19/2/2020,T1,Willian Zomer
+10,08:10,08:20,00:10:00,10,#N/A,,,Colocação frontal e barrote gabarito,19/2/2020,T1,Willian Zomer
+160,08:20,08:40,00:20:00,20,#N/A,,,Em uso,19/2/2020,T1,Willian Zomer
+10,08:40,09:00,00:20:00,20,#N/A,,,Abastecimento,19/2/2020,T1,Willian Zomer
+192,09:00,09:10,00:10:00,10,#N/A,,,Setup porta traseira 2036259,19/2/2020,T1,Willian Zomer
+2036259,09:10,09:35,00:25:00,25,21,1,,Solda porta traseira 2036259,19/2/2020,T1,Willian Zomer
+192,09:35,10:10,00:35:00,35,#N/A,,,Setup porta lateral 2047860,19/2/2020,T1,Willian Zomer
+2047860,10:10,10:55,00:45:00,45,47,1,,Solda porta lateral,19/2/2020,T1,Willian Zomer
+192,10:55,11:05,00:10:00,10,#N/A,,,Setup porta traseira,19/2/2020,T1,Willian Zomer
+2049165,11:05,11:25,00:20:00,20,45,1,,Solda porta traseira,19/2/2020,T1,Willian Zomer
+2008164,11:25,11:40,00:15:00,15,5,1,,Montagem barrote,19/2/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,19/2/2020,T1,Willian Zomer
+40,12:50,13:00,00:10:00,10,#N/A,,,Retirada peças gabarito,19/2/2020,T1,Willian Zomer
+10,13:00,13:10,00:10:00,10,#N/A,,,Reposição peças gabarito,19/2/2020,T1,Willian Zomer
+192,13:10,13:30,00:20:00,20,#N/A,,,Setup frontal premium,19/2/2020,T1,Willian Zomer
+2050430,13:30,13:55,00:25:00,25,12,1,,Solda frontal premium,19/2/2020,T1,Willian Zomer
+40,13:55,14:05,00:10:00,10,#N/A,,,Retirada frontal premium,19/2/2020,T1,Willian Zomer
+10,14:05,14:10,00:05:00,5,#N/A,,,Reposição tampa traseira,19/2/2020,T1,Willian Zomer
+192,14:10,14:15,00:05:00,5,#N/A,,,Setup tampa traseira,19/2/2020,T1,Willian Zomer
+2039181,14:15,14:33,00:18:00,18,5,1,,Solda tampa traseira,19/2/2020,T1,Willian Zomer
+160,14:33,14:55,00:22:00,22,#N/A,,,Em uso,19/2/2020,T1,Willian Zomer
+192,14:55,15:15,00:20:00,20,#N/A,,,Setup frontal 2049980,19/2/2020,T1,Willian Zomer
+2049980,15:15,15:34,00:19:00,19,12,1,,Solda,19/2/2020,T1,Willian Zomer
+181,15:34,15:50,00:16:00,16,#N/A,,,,19/2/2020,T1,Willian Zomer
+40,15:50,16:05,00:15:00,15,#N/A,,,Retirada frontal gabarito,19/2/2020,T1,Willian Zomer
+10,16:05,16:15,00:10:00,10,#N/A,,,Reposição tampa traseira,19/2/2020,T1,Willian Zomer
+192,16:15,16:25,00:10:00,10,#N/A,,,Setup tampa traseira,19/2/2020,T1,Willian Zomer
+2039182,16:25,17:00,00:35:00,35,47,1,,Solda tampa traseira,19/2/2020,T1,Willian Zomer
+120,17:00,17:00,00:00:00,0,#N/A,,,Limpeza no setor,19/2/2020,T1,Willian Zomer
+160,17:00,17:19,00:19:00,19,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,17:19,17:48,00:29:00,29,#N/A,,,,19/2/2020,T2,Willian Zomer
+2041332,17:48,18:03,00:15:00,15,45,1,,Porta traseira,19/2/2020,T2,Willian Zomer
+160,18:03,18:17,00:14:00,14,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,18:17,18:35,00:18:00,18,#N/A,,,,19/2/2020,T2,Willian Zomer
+2049980,18:35,18:57,00:22:00,22,12,1,,Frontal premium,19/2/2020,T2,Willian Zomer
+160,18:57,19:10,00:13:00,13,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,19:10,19:23,00:13:00,13,#N/A,,,,19/2/2020,T2,Willian Zomer
+2049065,19:23,19:35,00:12:00,12,45,1,,Porta traseira,19/2/2020,T2,Willian Zomer
+160,19:35,20:36,01:01:00,61,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,21:30,21:47,00:17:00,17,#N/A,,,,19/2/2020,T2,Willian Zomer
+2036259,21:47,22:00,00:13:00,13,21,1,,Porta traseira,19/2/2020,T2,Willian Zomer
+181,22:00,22:55,00:55:00,55,#N/A,,,,19/2/2020,T2,Willian Zomer
+160,22:55,23:10,00:15:00,15,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,23:10,23:24,00:14:00,14,#N/A,,,,19/2/2020,T2,Willian Zomer
+2050102,23:24,23:37,00:13:00,13,45,1,,Porta traseira,19/2/2020,T2,Willian Zomer
+160,23:37,00:23,00:46:00,46,#N/A,,,,19/2/2020,T2,Willian Zomer
+192,00:23,00:40,00:17:00,17,#N/A,,,,19/2/2020,T2,Willian Zomer
+2050430,00:40,01:02,00:22:00,22,12,1,,Frontal premium,19/2/2020,T2,Willian Zomer
+192,01:02,01:17,00:15:00,15,#N/A,,,,19/2/2020,T2,Willian Zomer
+2049165,01:17,01:30,00:13:00,13,45,1,,Porta traseira,19/2/2020,T2,Willian Zomer
+SA.,01:30,02:12,00:42:00,42,#N/A,,,,,,
+192,07:00,07:15,00:15:00,15,#N/A,,,Setup frontal 2049980,19/2/2020,T1,Willian Zomer
+2049980,07:15,07:42,00:27:00,27,12,1,,Solda frontal 2049980,19/2/2020,T1,Willian Zomer
+192,07:42,08:00,00:18:00,18,#N/A,,,Setup frontal 01693,19/2/2020,T1,Willian Zomer
+2049980,08:00,08:30,00:30:00,30,12,1,,Solda frontal 2049980,19/2/2020,T1,Willian Zomer
+40,08:30,08:40,00:10:00,10,#N/A,,,Retirada peças gabarito,19/2/2020,T1,Willian Zomer
+10,08:40,09:00,00:20:00,20,#N/A,,,Reposição peças gabarito,19/2/2020,T1,Willian Zomer
+192,09:00,09:20,00:20:00,20,#N/A,,,Setup porta traseira 2036259,19/2/2020,T1,Willian Zomer
+2036259,09:20,09:34,00:14:00,14,21,1,,Solda porta traseira 2036259,19/2/2020,T1,Willian Zomer
+40,09:34,09:50,00:16:00,16,#N/A,,,Retirada porta gabarito,19/2/2020,T1,Willian Zomer
+2008164,09:50,10:15,00:25:00,25,42,8,,Solda barrote,19/2/2020,T1,Willian Zomer
+160,10:15,10:30,00:15:00,15,#N/A,,,Em uso,19/2/2020,T1,Willian Zomer
+130,10:30,11:40,01:10:00,70,#N/A,,,Em manutenção,19/2/2020,T1,Willian Zomer
+180,11:40,12:50,01:10:00,70,#N/A,,,Almoço,19/2/2020,T1,Willian Zomer
+130,12:50,14:00,01:10:00,70,#N/A,,,Em manutenção,19/2/2020,T1,Willian Zomer
+192,14:00,14:10,00:10:00,10,#N/A,,,Setup barrote 2008164,19/2/2020,T1,Willian Zomer
+2008164,14:10,15:10,01:00:00,60,42,8,,Solda barrote 2008164,19/2/2020,T1,Willian Zomer
+192,15:10,15:30,00:20:00,20,#N/A,,,Programação parachoque tanque,19/2/2020,T1,Willian Zomer
+SA.,15:30,16:00,00:30:00,30,#N/A,1,,Solda parachoque tanque,19/2/2020,T1,Willian Zomer
+192,16:00,16:30,00:30:00,30,#N/A,,,Programação parachoque tanque,19/2/2020,T1,Willian Zomer
+SA.,16:30,16:55,00:25:00,25,#N/A,4,,Solda parachoque tanque,19/2/2020,T1,Willian Zomer
+120,16:55,17:10,00:15:00,15,#N/A,,,,19/2/2020,T1,Willian Zomer
+SA.,17:10,18:54,01:44:00,104,#N/A,,,,,,
+192,18:54,19:13,00:19:00,19,#N/A,,,,20/2/2020,T2,Willian Zomer
+SA.,19:13,19:50,00:37:00,37,#N/A,2,,Parachoque tanque,20/2/2020,T2,Willian Zomer
+192,19:50,20:09,00:19:00,19,#N/A,,,,20/2/2020,T2,Willian Zomer
+SA.,20:09,20:30,00:21:00,21,#N/A,1,,Parachoque tanque,20/2/2020,T2,Willian Zomer
+180,20:30,21:30,01:00:00,60,#N/A,,,,20/2/2020,T2,Willian Zomer
+192,21:30,21:45,00:15:00,15,#N/A,,,,20/2/2020,T2,Willian Zomer
+SA.,21:45,22:00,00:15:00,15,#N/A,1,,Parachoque tanque,20/2/2020,T2,Willian Zomer
+192,22:00,22:16,00:16:00,16,#N/A,,,,20/2/2020,T2,Willian Zomer
+2050430,22:16,22:37,00:21:00,21,12,1,,Frontal,20/2/2020,T2,Willian Zomer
+192,22:37,23:46,01:09:00,69,#N/A,,,,20/2/2020,T2,Willian Zomer
+SA.,23:46,00:14,00:28:00,28,#N/A,2,,Florestal,20/2/2020,T2,Willian Zomer
+160,00:14,00:40,00:26:00,26,#N/A,,,,20/2/2020,T2,Willian Zomer
+192,00:40,01:00,00:20:00,20,#N/A,,,,20/2/2020,T2,Willian Zomer
+SA.,01:00,01:28,00:28:00,28,#N/A,2,,Fueiro florestal,20/2/2020,T2,Willian Zomer
+192,01:28,01:48,00:20:00,20,#N/A,,,,20/2/2020,T2,Willian Zomer
+2050430,01:48,02:09,00:21:00,21,12,1,,Frontal,20/2/2020,T2,Willian Zomer
